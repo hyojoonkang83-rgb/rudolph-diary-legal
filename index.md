@@ -9,4 +9,4 @@ title: 루돌프 다이어리 — 약관 및 정책
 - [이용약관](./terms-of-service)
 - [개인정보처리방침](./privacy-policy)
 
-문의: hyojoonkang83@gmail.com
+문의: hyojoonkang83@gmail.com · 운영: 주식회사 루돌프웍스
